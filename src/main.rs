@@ -3,6 +3,7 @@ use crate::chapter5::User;
 mod chapter5;
 mod chapter5_1;
 mod chapter5_2;
+mod chapter6_1;
 
 fn main()
 {
